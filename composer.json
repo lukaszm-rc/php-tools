@@ -2,12 +2,14 @@
     "name": "lukaszm/php-tools",
     "require": {
         "phpmetrics/phpmetrics": "^1.10",
-        "nikic/php-parser": "^2.1"
+        "nikic/php-parser": "^2.1",
+        "maximebf/debugbar": ">=1.0.0",
+        "phalcon/incubator": ">=2.1.x-dev"
     },
 
     "require-dev": {
         "squizlabs/php_codesniffer": "2.*"
-    }
+    },
 
     "authors": [
         {

@@ -4,7 +4,8 @@
         "phpmetrics/phpmetrics": "^1.10",
         "nikic/php-parser": "^2.1",
         "maximebf/debugbar": ">=1.0.0",
-        "phalcon/incubator": ">=2.1.x-dev"
+        "phalcon/incubator": ">=2.1.x-dev",
+        "phpmd/phpmd": "^2.6"
     },
 
     "require-dev": {
